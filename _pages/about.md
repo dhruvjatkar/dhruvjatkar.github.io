@@ -17,17 +17,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Dhruv Jatkar, a Research Assistant at Northeastern University advised by Prof. [Eduardo Sontag](http://www.sontaglab.org/eduardo.html). I am currently working as a Research Assistant advised by Prof. [Eduardo Sontag](http://www.sontaglab.org/eduardo.html).
+Hi, I'm Dhruv. I am currently working as a Research Assistant advised by Prof. [Eduardo Sontag](http://www.sontaglab.org/eduardo.html).
 
 I recently graduated Northeastern University with a degree in Computer Science and Mathematics. I have been jointly advised by Prof. [Benjamin Woolston](https://woolstonlab.org/) (Fall 2021–Fall 2025), Prof. [Eduardo Sontag](http://www.sontaglab.org/eduardo.html) (Summer 2023–Fall 2025), and Prof. [Domitilla Del Vecchio](https://scripts.mit.edu/~ddv/index.php) (Summer 2024–Fall 2025).
 
