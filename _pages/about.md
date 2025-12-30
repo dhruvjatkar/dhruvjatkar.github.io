@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Dhruv Jatkar, a Research Assistant at Northeastern University advised by Prof. Eduardo Sontag. I am currently working as a Research Assistant advised by Prof. Eduardo Sontag.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I recently graduated Northeastern University with a degree in Computer Science and Mathematics. I have been jointly advised by Prof. Benjamin Woolston (Fall 2021–Fall 2025), Prof. Eduardo Sontag (Summer 2023–Fall 2025), and Prof. Domitilla Del Vecchio (Summer 2024–Fall 2025).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research has spanned theoretical and experimental directions in systems and control, synthetic biology, and machine learning, with a particular emphasis on robustness, modularity, and learning in dynamical systems. I am broadly interested in developing principled and widely applicable methods through the lens of systems theory.
