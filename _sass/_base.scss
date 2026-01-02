@@ -198,6 +198,13 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
+  // Profile picture size - adjust max-width to resize
+  img {
+    max-width: 200px; // Change this value: 150px=smaller, 250px=larger, 300px=even larger
+    width: 100%;
+    height: auto;
+  }
+
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
