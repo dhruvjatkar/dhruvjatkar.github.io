@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: last updated: December 2025
+subtitle: Last updated December 2025
 
 profile:
   align: right
