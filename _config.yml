@@ -264,7 +264,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Jatkar]
-  first_name: [Dhruv, D.]
+  first_name: [Dhruv, D., D. D.]
 
   style: apa
   locale: en
