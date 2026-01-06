@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Dhruv. I am currently working as a Research Assistant advised by Prof. [Eduardo Sontag](http://www.sontaglab.org/eduardo.html).
+Hi, I'm Dhruv. I am currently working as a Research Assistant advised by Prof. [Eduardo Sontag](http://www.sontaglab.org/eduardo.html) at the Laboratory for Control, Learning, and Systems Biology.
 
 I recently graduated Northeastern University with a degree in Computer Science and Mathematics. I have been jointly advised by Prof. [Benjamin Woolston](https://woolstonlab.org/) (Fall 2021–Fall 2025), Prof. [Eduardo Sontag](http://www.sontaglab.org/eduardo.html) (Summer 2023–Fall 2025), and Prof. [Domitilla Del Vecchio](https://scripts.mit.edu/~ddv/index.php) (Summer 2024–Fall 2025).
 
