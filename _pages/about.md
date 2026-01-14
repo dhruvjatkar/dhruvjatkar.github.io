@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><i class="fa-solid fa-envelope"></i> <a href="mailto:dhruvjatkar@gmail.com">dhruvjatkar@gmail.com</a></p>
-    <p><i class="fa-brands fa-github"></i> <a href="https://github.com/dhruvjatkar" target="_blank">dhruvjatkar</a></p>
+    <p>dhruvjatkar@gmail.com</p>
+    <p></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,7 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Dhruv. I am currently working as a Research Assistant advised by Prof. [Eduardo Sontag](http://www.sontaglab.org/eduardo.html) at the Laboratory for Control, Learning, and Systems Biology.
+Hi, I'm Dhruv. I am currently working as a Research Assistant
+in the [Laboratory for Control, Learning, and Systems Biology](http://www.sontaglab.org/index.html) housed in the [Electrical and Computer Engineering Department](https://ece.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/).
 
 I recently graduated Northeastern University with a degree in Computer Science and Mathematics. I have been jointly advised by Prof. [Benjamin Woolston](https://woolstonlab.org/) (Fall 2021–Fall 2025), Prof. [Eduardo Sontag](http://www.sontaglab.org/eduardo.html) (Summer 2023–Fall 2025), and Prof. [Domitilla Del Vecchio](https://scripts.mit.edu/~ddv/index.php) (Summer 2024–Fall 2025).
 

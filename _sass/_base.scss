@@ -198,25 +198,14 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
-  // Profile picture size - adjust max-width to resize
-  img {
-    max-width: 200px; // Change this value: 150px=smaller, 250px=larger, 300px=even larger
-    width: 100%;
-    height: auto;
-  }
-
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: inherit; // Match the normal text font
+    font-family: monospace;
 
     p {
-      display: block; // Each line on its own row
-      margin: 0.25rem 0;
-    }
-
-    a {
-      color: var(--global-theme-color); // Blue hyperlink color
+      display: inline-block;
+      margin: 0;
     }
   }
 }
@@ -426,23 +415,23 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 1.8rem; // 2x size icons
+    font-size: 4rem;
 
     a {
       img {
-        width: 1.6rem;
-        height: 1.6rem;
-        margin-bottom: 0.4rem;
+        width: 3.2rem;
+        height: 3.2rem;
+        margin-bottom: 1rem;
       }
 
       svg {
-        width: 1.6rem;
-        height: 1.8rem;
-        margin-bottom: 0.2rem;
+        width: 3.5rem;
+        height: 4rem;
+        margin-bottom: 0.5rem;
 
         image {
-          width: 1.6rem;
-          height: 1.6rem;
+          width: 3.5rem;
+          height: 3.5rem;
         }
       }
 
