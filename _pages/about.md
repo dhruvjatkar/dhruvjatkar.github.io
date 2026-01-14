@@ -32,3 +32,4 @@ in the [Laboratory for Control, Learning, and Systems Biology](http://www.sontag
 I recently graduated Northeastern University with a degree in Computer Science and Mathematics. I have been jointly advised by Prof. [Benjamin Woolston](https://woolstonlab.org/) (Fall 2021–Fall 2025), Prof. [Eduardo Sontag](http://www.sontaglab.org/eduardo.html) (Summer 2023–Fall 2025), and Prof. [Domitilla Del Vecchio](https://scripts.mit.edu/~ddv/index.php) (Summer 2024–Fall 2025).
 
 My research has spanned theoretical and experimental directions in systems and control, synthetic biology, and machine learning, with a particular emphasis on robustness, modularity, and learning in dynamical systems. I am broadly interested in developing principled and widely applicable methods through the lens of systems theory.
+
