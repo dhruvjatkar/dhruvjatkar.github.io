@@ -100,8 +100,6 @@
                 <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">
                   {%- if p.permalink contains '://' -%}
                     {%- assign url = p.permalink -%}
-                  {%- elsif p.permalink == '/cv/' -%}
-                    {%- assign url = site.data.socials.cv_pdf -%}
                   {%- elsif p.permalink contains '/blog/' -%}
                     {%- assign url = '/blog/' -%}
                   {%- else -%}
@@ -117,6 +115,12 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+
+          <!-- CV - Direct PDF link -->
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/assets/pdf/DhruvJatkar_CV_2026.pdf' | relative_url }}" target="_blank">cv</a>
+          </li>
+
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
